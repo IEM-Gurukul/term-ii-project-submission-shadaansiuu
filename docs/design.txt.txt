@@ -1,0 +1,15 @@
+Greet App - Basic Flow
+
+User opens app
+↓
+MainActivity loads
+↓
+Greeting message displayed
+↓
+User sees output
+
+Components:
+
+* MainActivity
+* Layout XML
+* TextView

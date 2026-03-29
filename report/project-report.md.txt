@@ -1,0 +1,42 @@
+# Greet App - Project Report
+
+## 1. Introduction
+
+Greet App ek simple Android application hai jo user ko greeting message display karta hai.
+Iska main purpose Android development ke basic concepts ko demonstrate karna hai.
+
+## 2. Objective
+
+* Android app development seekhna
+* UI aur user interaction samajhna
+* Simple project structure implement karna
+
+## 3. Technology Used
+
+* Java
+* Android Studio
+* Gradle
+
+## 4. System Design
+
+Application me ek simple activity hai jo greeting message show karta hai.
+
+## 5. Implementation
+
+* MainActivity banaya gaya
+* Layout XML design kiya gaya
+* TextView me greeting message display kiya gaya
+
+## 6. Result
+
+Application successfully run hota hai aur greeting message display karta hai.
+
+## 7. Conclusion
+
+Ye project Android development ke basics ko samajhne me madad karta hai.
+
+## 8. Future Scope
+
+* User input add kar sakte hain
+* Multiple greetings add kar sakte hain
+* UI improve kar sakte hain
