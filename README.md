@@ -28,5 +28,15 @@ It demonstrates basic Android app development using Java and XML.
 - Password: 1234  
 
 ---
+## 📂 Project Structure
+app/
+ ├── java/com/example/greetapp/
+ │    ├── SplashActivity.java
+ │    ├── LoginActivity.java
+ │    └── HomeActivity.java
+ ├── res/layout/
+ │    ├── activity_splash.xml
+ │    ├── activity_login.xml
+ │    └── activity_home.xml 
 
 ## 📂 Project Structure
