@@ -1,43 +1,32 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pG3gvzt-)
-# PCCCS495 – Term II Project
+# 📱 Android Login App
 
-## Project Title
-
----
-
-## Problem Statement (max 150 words)
+## 📌 Project Overview
+This project is developed as part of PCCCS495 OOP Lab Assignment (Term-II Spring 2026).  
+It demonstrates basic Android app development using Java and XML.
 
 ---
 
-## Target User
+## 🚀 Features
+- Splash Screen (App Intro)
+- Login Authentication (Username & Password)
+- Home Screen with Greeting
+- Data Storage using SharedPreferences
+- Activity Navigation using Intents
 
 ---
 
-## Core Features
-
-- 
-- 
-- 
-
----
-
-## OOP Concepts Used
-
-- Abstraction:
-- Inheritance:
-- Polymorphism:
-- Exception Handling:
-- Collections / Threads:
+## 🛠 Technologies Used
+- Java
+- Android Studio
+- XML Layouts
+- Android SDK
 
 ---
 
-## Proposed Architecture Description
+## 🔐 Login Credentials
+- Username: admin  
+- Password: 1234  
 
 ---
 
-## How to Run
-
----
-
-## Git Discipline Notes
-Minimum 10 meaningful commits required.
+## 📂 Project Structure
